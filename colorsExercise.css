@@ -1,0 +1,48 @@
+h1 {
+color: Red;
+background-color: red;
+}
+
+h2 {
+color: #ffa500;
+background-color: #ffa500;
+}
+
+h3{
+color: #ffff00ff;
+background-color: #ffff00ff;
+}
+
+h4{
+color: #0f0;
+background-color: #0f0;
+}
+
+h5{
+color: #00FF;
+background-color: #00FF
+}
+
+h6{
+color: rgb(75, 0, 130);
+background-color: rgb(75, 0, 130)
+}
+
+p{
+color: rgba(143, 0, 255, 255);
+background-color: rgba(143, 0, 255, 255);
+}
+
+#pink{
+    color:hotpink;
+}
+
+#peach{
+    background-color: peachpuff;
+}
+
+.og{
+    border: green;
+    border-style: solid;
+    border-width: 5px;
+}
